@@ -6,7 +6,5 @@
 
 ## 목차
 
-### chater1
-
-- [item1 ~ item5](pages/1-5.md)
-- [item6 ~ item10](pages/6-10.md)
+- [chapter1](pages/chapter1.md)
+- [chapter2](pages/chapter2.md)
