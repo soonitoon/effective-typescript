@@ -8,3 +8,6 @@
 
 - [chapter1](pages/chapter1.md)
 - [chapter2](pages/chapter2.md)
+- [chapter3](pages/chapter3.md)
+- [chapter4](pages/chapter4.md)
+- [chapter5](pages/chapter5.md)
